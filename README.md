@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Muthu+%F0%9F%91%8B;ML+Engineer+%7C+AI+%26+Data+Science+Grad;Deep+Learning+%2B+NLP+%2B+MLOps;From+Raw+Data+%E2%86%92+Deployed+REST+APIs)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=MuthuKumaresan-V&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Muthuworkspace&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
 &nbsp;
 <a href="mailto:muthuofficialworks@gmail.com"><img src="https://img.shields.io/badge/Gmail-muthuofficialworks%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
@@ -136,11 +136,11 @@ class Muthukumaresan:
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/MuthuKumaresan-V">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuthuKumaresan-V&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Muthuworkspace">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muthuworkspace&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/MuthuKumaresan-V">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuKumaresan-V&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Muthuworkspace">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthuworkspace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -153,7 +153,7 @@ class Muthukumaresan:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuthuKumaresan-V&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muthuworkspace&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -167,7 +167,7 @@ class Muthukumaresan:
 
 ### 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuthuKumaresan-V&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/MuthuKumaresan-V)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muthuworkspace&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Muthuworkspace)
 
 </div>
 
@@ -181,7 +181,7 @@ class Muthukumaresan:
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuthuKumaresan-V&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muthuworkspace&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -249,9 +249,9 @@ class Muthukumaresan:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🔍 **[Text Classification & Info Extraction](https://github.com/MuthuKumaresan-V)** | `BERT` `RoBERTa` `ChromaDB` `Pinecone` `FastAPI` `Docker` | ✅ 22% misclassification reduction · ⚡ <1s search across millions of records · 🐳 Production REST API |
-| 🩺 **[Skin Cancer Classification](https://github.com/MuthuKumaresan-V)** | `EfficientNetB0` `TensorFlow` `Transfer Learning` `OpenCV` `FastAPI` | ✅ 93% validation accuracy · 📊 11,720 dermoscopic images · 📄 IJIRT Published (2026) |
-| 🏦 **[Loan Eligibility Predictor](https://github.com/MuthuKumaresan-V)** | `XGBoost` `Random Forest` `SMOTE` `GridSearchCV` `Streamlit` `Render` | ✅ 90% accuracy (+24% over baseline) · ⚖️ SMOTE-balanced · 🌐 Live on Render |
+| 🔍 **[Text Classification & Info Extraction](https://github.com/Muthuworkspace)** | `BERT` `RoBERTa` `ChromaDB` `Pinecone` `FastAPI` `Docker` | ✅ 22% misclassification reduction · ⚡ <1s search across millions of records · 🐳 Production REST API |
+| 🩺 **[Skin Cancer Classification](https://github.com/Muthuworkspace)** | `EfficientNetB0` `TensorFlow` `Transfer Learning` `OpenCV` `FastAPI` | ✅ 93% validation accuracy · 📊 11,720 dermoscopic images · 📄 IJIRT Published (2026) |
+| 🏦 **[Loan Eligibility Predictor](https://github.com/Muthuworkspace)** | `XGBoost` `Random Forest` `SMOTE` `GridSearchCV` `Streamlit` `Render` | ✅ 90% accuracy (+24% over baseline) · ⚖️ SMOTE-balanced · 🌐 Live on Render |
 
 </div>
 
@@ -313,7 +313,7 @@ class Muthukumaresan:
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/muthukumaresanv">
+<a href="https://linkedin.com/in/muthukumaresan-v">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
