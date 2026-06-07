@@ -180,7 +180,7 @@ class Muthukumaresan:
 ### 💼 Experience & Projects in Depth
 
 <details>
-<summary><b>🔬 NLP Pipeline — Text Classification & Information Extraction</b> &nbsp;|&nbsp; Personal Project &nbsp;|&nbsp; 2024–2025 &nbsp;|&nbsp; Remote</summary>
+<summary><b>🔬 NLP Pipeline — Text Classification & Information Extraction</b> &nbsp;|&nbsp; Personal Project &nbsp;|&nbsp; 2024–2025 &nbsp;</summary>
 
 <br/>
 
@@ -194,7 +194,7 @@ class Muthukumaresan:
 </details>
 
 <details>
-<summary><b>🩺 Skin Cancer Classification — Deep Learning Research</b> &nbsp;|&nbsp; Published Research Project &nbsp;|&nbsp; 2024–2026 &nbsp;|&nbsp; Coimbatore</summary>
+<summary><b>🩺 Skin Cancer Classification — Deep Learning Research</b> &nbsp;|&nbsp; Published Research Project &nbsp;|&nbsp; 2024–2026 &nbsp;</summary>
 
 <br/>
 
@@ -209,7 +209,7 @@ class Muthukumaresan:
 </details>
 
 <details>
-<summary><b>🏦 Loan Eligibility Prediction — End-to-End ML Pipeline</b> &nbsp;|&nbsp; Personal Project &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote</summary>
+<summary><b>🏦 Loan Eligibility Prediction — End-to-End ML Pipeline</b> &nbsp;|&nbsp; Personal Project &nbsp;|&nbsp; 2024 &nbsp;</summary>
 
 <br/>
 
