@@ -177,11 +177,6 @@ class Muthukumaresan:
 <!--                        TROPHY WALL — Section 9                                  -->
 <!-- ████████████████████████████████████████████████████████████████████████████████ -->
 
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muthuworkspace&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -313,7 +308,7 @@ class Muthukumaresan:
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/muthukumaresan-v">
+<a href="https://linkedin.com/in/muthukumaresanv">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
